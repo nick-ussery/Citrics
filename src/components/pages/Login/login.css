@@ -1,0 +1,10 @@
+@media (max-width:1032px) {
+    .loginImage{
+     display:none; 
+     padding:auto;
+     margin-bottom: auto;  
+    }
+    .loginPage{
+        background-image: url(https://images.unsplash.com/photo-1519501025264-65ba15a82390?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60);    
+    }
+}
