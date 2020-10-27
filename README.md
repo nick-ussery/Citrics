@@ -13,7 +13,7 @@ You can find a demo video of project functionality as of Labs25-10/23/2020 at ht
 
 🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
 
-|                                                      [Student 1](https://github.com/meep-morp)                                                       |                                                       [Student 2](https://github.com/Angel-Guzman)                                                        |                                                      [Student 3](https://github.com/nick-ussery)                                                       |                                                       [Student 4](https://github.com/GraceeElton)                                                        |                                                      [Student 5](https://github.com/mjschuette4)                                                       |
+|                                                      [Adrian Hartley](https://github.com/meep-morp)                                                       |                                                       [Angel Guzman](https://github.com/Angel-Guzman)                                                        |                                                      [Nick Ussery](https://github.com/nick-ussery)                                                       |                                                       [Grace Elton](https://github.com/GraceeElton)                                                        |                                                      [Matthew Schuette](https://github.com/mjschuette4)                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://avatars2.githubusercontent.com/u/56855175?s=460&u=3857ee191db2fc86aee16d1a11d39bee748488be&v=4" width = "200" />](https://github.com/meep-morp) | [<img src="https://avatars0.githubusercontent.com/u/60765703?s=460&u=2ae4c58d257dd1e0e4ecbddc7da64175d146f681&v=4" width = "200" />](https://github.com/Angel-Guzman) | [<img src="https://avatars1.githubusercontent.com/u/21065199?s=460&u=4ae95e5f065cd03725924e1e0ab8d4f390a31000&v=4" width = "200" />](https://github.com/nick-ussery) | [<img src="https://avatars1.githubusercontent.com/u/60789216?s=460&u=1dd2b27ebda1ca47f8001ef1c559df622ed845dc&v=4" width = "200" />](https://github.com/GraceeElton) | [<img src="https://avatars1.githubusercontent.com/u/60788319?s=460&u=a58931a7ef74842f1979ac4f4aa7c0320f74c4f5&v=4" width = "200" />](https://github.com/mjschuette4) |
 |                                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/meep-morp)                                |                            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Angel-Guzman)                             |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/nick-ussery)                           |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/GraceeElton)                           |                           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/mjschuette4)                            |
@@ -39,21 +39,16 @@ You can find a demo video of project functionality as of Labs25-10/23/2020 at ht
 
 ### Key Features
 
-- feature one
-- feature two
-- feature three
-- feature four
-- feature five
+- Interactive map and Autocomplete Search Bar
+- Dash with chosen Cities for comparison
+- Interactive Graphs and Plots using React Plotly
 
-#### Front end deployed to `🚫insert service here`
+#### Front end deployed to https://main.d16fcu54brr43i.amplifyapp.com/
 
-#### [Back end](🚫link to back end repo here) built using:
+#### [Back end](🚫link to back end repo here) built using: Java Spring
 
 #### 🚫 back end framework goes here
-
-- point one
-- point two
-- point three
+- Pulls Data from Data Science API
 
 🚫 List the rest of the back end end features and libraries in the same format as the framework above
 
